@@ -1,4 +1,4 @@
-# This is a Todo List project
+# Tasky - A Todo List App
 
 The technologies used here are: Vite + React using JavaScript + Tailwind
 
