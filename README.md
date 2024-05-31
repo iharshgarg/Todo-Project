@@ -1,4 +1,4 @@
-# This is a Todo Manager project
+# This is a Todo List project
 
 The technologies used here are: Vite + React using JavaScript + Tailwind
 
